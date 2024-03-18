@@ -6,9 +6,9 @@ My progress in the [**freeCodeCamp**](https://www.freecodecamp.org) course.
 
 ## Write Your First Code Using C#
 
-- [ ] Write Your First C# Code
-- [ ] Store and Retrieve Data Using Literal and Variable Values in C#
-- [ ] Perform Basic String Formatting in C#
+- [x] Write Your First C# Code
+- [x] Store and Retrieve Data Using Literal and Variable Values in C#
+- [x] Perform Basic String Formatting in C#
 - [ ] Perform Basic Operations on Numbers in C#
 - [ ] Guided Project - Calculate and Print Student Grades
 - [ ] Guided Project - Calculate Final GPA
