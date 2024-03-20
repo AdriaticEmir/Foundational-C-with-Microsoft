@@ -4,15 +4,15 @@
 
 My progress in the [**freeCodeCamp**](https://www.freecodecamp.org) course.
 
-## Write Your First Code Using C#
+## Write Your First Code Using C# :heavy_check_mark:
 
 - [x] Write Your First C# Code
 - [x] Store and Retrieve Data Using Literal and Variable Values in C#
 - [x] Perform Basic String Formatting in C#
-- [ ] Perform Basic Operations on Numbers in C#
-- [ ] Guided Project - Calculate and Print Student Grades
-- [ ] Guided Project - Calculate Final GPA
-- [ ] Trophy - Write Your First Code Using C#
+- [x] Perform Basic Operations on Numbers in C#
+- [x] Guided Project - Calculate and Print Student Grades
+- [x] Guided Project - Calculate Final GPA
+- [x] Trophy - Write Your First Code Using C#
 
 ## Create and Run Simple C# Console Applications
 
